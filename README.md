@@ -1,2 +1,9 @@
-- Howdy partner, it seems as if you've come across this here readme text
-- Thats it
+# Introduction
+
+This is a repository created by *Firstname*
+
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
